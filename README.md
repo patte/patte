@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm patte :v:
+
+I'm a software engineer and passionate about new technologies, reversing climate change and strengthening democracy.
+
+Currently looking for a job. Contact me via [email](p@tte.io).
 
 <!--
 **patte/patte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
