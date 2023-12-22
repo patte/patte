@@ -1,8 +1,11 @@
 ### Hi, I'm patte :v:
 
-I'm a software engineer and passionate about new technologies, reversing climate change and strengthening democracy.
+I'm a software engineer 👨‍💻 and passionate about new technologies 💡, early startups 🚀, reversing climate change 🌍, and strengthening democracy 🗳️.
 
-Currently looking for a job. Contact me via [email](mailto:p@tte.io).
+I'm proficient in TypeScript 📚, GraphQL 🌀, Python 🐍, SQL 🛢️, CSS 🎨, and currently learning Rust 🦀.
+My most beloved technologies are React ⚛️, Node.js / Bun 🌐, Next.js 🔗, PostgreSQL 🐘, Redis 🚀, Meilisearch 🔍, Prometheus 📊, Grafana 📈, and Docker 🐳.
+
+Currently looking for a job 🧳. Contact me via [email](mailto:p@tte.io) 📧.
 
 <!--
 **patte/patte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
