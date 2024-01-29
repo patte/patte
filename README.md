@@ -1,11 +1,15 @@
 ### Hi, I'm patte :v:
 
-I'm a software engineer with a background in networks👨‍💻 and passionate about new technologies 💡, early startups 🚀, reversing climate change 🌍, and strengthening democracy 🗳️.
+I'm a full stack senior software engineer with 10+ years experience and a background in networks.
+I'm passionate about new technologies, early startups, stopping climate change, and strengthening democracy and human rights.
 
-I'm proficient in TypeScript 📚, GraphQL 🌀, Python 🐍, SQL 🛢️, CSS 🎨, and currently learning Rust 🦀.
-My most beloved technologies are React ⚛️, Node.js / Bun 🌐, Next.js 🔗, PostgreSQL 🐘, Redis 🚀, Meilisearch 🔍, Prometheus 📊, Grafana 📈, and Docker 🐳.
+I'm profitient with (6+ years exp.): 📚 Typescript on NodeJS, 🌀 GraphQL (Apollo, Strawberry, Hasura), 🐘 PostgreSQL, 🚀 Redis, ⚛️ React with Next.js, 🎨 CSS, 🐳 Docker, 📈 Grafana, ☁️ Hosting on AWS, GCP and Fly.io
 
-Currently looking for a job 🧳. Contact me via [email](mailto:p@tte.io) 📧.
+...and have experience with (2+ years): 🐍 Python, 📊 Prometheus, 🔍 Meilisearch, 🐦 Swift (iOS)
+
+...and I'm learning and loving: 🦀 Rust
+
+I'm Currently looking for a job! Preferably remote or located in Berlin. Contact me via [email 📫](mailto:p@tte.io).
 
 <!--
 **patte/patte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
