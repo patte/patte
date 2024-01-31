@@ -9,7 +9,7 @@ I'm profitient with (6+ years exp.): 📚 Typescript on NodeJS, 🌀 GraphQL (Ap
 
 ...and I'm learning and loving: 🦀 Rust
 
-I'm Currently looking for a job! Preferably remote or located in Berlin. Contact me via [email 📫](mailto:p@tte.io).
+I'm currently looking for a job! Preferably remote or hybrid in Berlin. Contact me via [email 📫](mailto:p@tte.io).
 
 <!--
 Sometimes I fuck up, but I always fix it fast: https://github.com/orbiting/crowdfunding-backend/commit/71764c3d2ae7b461f8574cb7fb2615b0289117f1
