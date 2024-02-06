@@ -3,7 +3,7 @@
 I'm a full stack senior software engineer with 10+ years experience and a background in networks.
 I'm passionate about new technologies, early startups, stopping climate change, and strengthening democracy and human rights.
 
-I'm profitient with (6+ years exp.): 📚 Typescript on NodeJS, 🌀 GraphQL (Apollo, Strawberry, Hasura), 🐘 PostgreSQL, 🚀 Redis, ⚛️ React with Next.js, 🎨 CSS, 🐳 Docker, 📈 Grafana, ☁️ Hosting on AWS, GCP and Fly.io
+I'm proficient in (6+ years exp.): 📚 Typescript on NodeJS, 🌀 GraphQL (Apollo, Strawberry, Hasura), 🐘 PostgreSQL, 🚀 Redis, ⚛️ React with Next.js, 🎨 CSS, 🐳 Docker, 📈 Grafana, ☁️ Hosting on AWS, GCP and Fly.io
 
 ...and have experience with (2+ years): 🐍 Python, 📊 Prometheus, 🔍 Meilisearch, 🐦 Swift (iOS)
 
